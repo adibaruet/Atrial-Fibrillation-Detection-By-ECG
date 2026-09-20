@@ -126,7 +126,3 @@ Python · NumPy · pandas · Matplotlib · seaborn · scikit-learn
 
 - **PTB-XL** ECG database (PhysioNet) and the Kaggle *PTB-XL Atrial Fibrillation Detection* dataset built from it.
 - The feature-engineering notebook that creates `af_dataset.csv` is linked inside the notebook (`tvo10/atrial-fibrillation-detection` on GitHub). If you built on that work, please keep the credit here.
-
-## License
-
-Add a license of your choice (for example MIT) and mention it here.
